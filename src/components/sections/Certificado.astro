@@ -1,0 +1,77 @@
+---
+
+import Section from "../Section.astro"
+import { certificado } from "@/cv"
+
+---
+
+<Section title="Certificados">
+    <ul>
+        <article>
+            <header>
+              <div>
+                <h3>CertiProf</h3>
+              </div>
+
+              <time>2023 - 2023</time>
+            </header>
+
+            <footer>
+              <a href="https://www.credly.com/badges/01e73c15-120f-439f-80bb-a1297dc2d333"><p>Business Intelligence Foundation Professional Certification - BIFPC™</p></a>
+            </footer>
+            <br>
+            <footer>
+                <a href="https://www.credly.com/badges/9d95faad-365c-4c9d-8a49-23dec97cb889"><p>Scrum Foundation Professional Certification - SFPC™</p></a>
+              </footer>
+        </article>
+    </ul>
+    <br>
+    <ul>
+        <article>
+            <header>
+              <div>
+                <h3>Cisco</h3>
+              </div>
+
+              <time>2023 - 2023</time>
+            </header>
+
+            <footer>
+              <a href="https://www.credly.com/badges/1615bbe1-91aa-474d-8334-667664d17de4"><p>Introduction to Cybersecurity</p></a>
+            </footer>
+            <br>
+        </article>
+    </ul>
+</Section>
+
+<style>
+    ul {
+      display: flex;
+      flex-direction: column;
+      gap: 32px;
+    }
+  
+    article h3 {
+      font-weight: 500;
+      color: #111;
+    }
+  
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 4px;
+    }
+  
+    time {
+      color: #555;
+      font-size: 0.85rem;
+      min-width: 102px;
+    }
+  
+    @media (width <= 700px) {
+      time {
+        text-align: right;
+      }
+    }
+  </style>

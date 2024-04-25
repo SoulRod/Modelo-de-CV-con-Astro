@@ -1,0 +1,267 @@
+{
+  "basics": {
+    "name": "Rodrigo Morales Mendoza",
+    "label": "Full Stack Developer con más de 5 años de experiencia en el mundo de las tecnologias",
+    "image": "/me.webp",
+    "email": "rod.moralesm93@gmail.com",
+    "phone": "+56 976446571",
+    "url": "https://github.com/SoulRod",
+    "summary": "+5 años de experiencia en el mundo de las tecnologias tanto Redes como Informatica, vivo en Santiago de Chile, actualmente terminando la Ing. en informatica, titulado como Analista Programador Computacional y Administrador de Redes Computacionales.",
+    "location": {
+      "address": "",
+      "postalCode": "8190582",
+      "city": "Marcos Perez #0781",
+      "countryCode": "ES",
+      "region": "Puente Alto"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "midudev",
+        "url": "https://www.linkedin.com/in/rmoralesmendoza/"
+      },
+      {
+        "network": "GitHub",
+        "username": "midudev",
+        "url": "https://github.com/SoulRod"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Carabineros de Chile",
+      "position": "Desarrollador Laravel / PHP",
+      "url": "https://www.carabineros.cl/",
+      "startDate": "2022-08-01",
+      "endDate": null,
+      "summary": "Realizando diferentes tipos de desarrollo internos para plataformas de la institucion, entre ellas el desarrollo de sistema de examinacion de seguridad privada ( OS10 ).",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "ServiSenior",
+      "position": "DBA / Customer Success",
+      "url": "https://www.linkedin.com/company/servisenior.com/about/",
+      "startDate": "2021-11-10",
+      "endDate": "2022-06-26",
+      "summary": "Encargado de realizar la planificación diaria de rutas y envíos de distintas empresas. Creación y mantención de base de datos de distintos clientes (MySQL) Lenguajes que ultimamente he utilizado son: stack web, HTML, PHP, Css, Python (librerías de pandas, selenium, beautifullsoup, QrCode, entre otros).",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Fiabilis Consulting Group",
+      "position": "Desarrollador",
+      "url": "https://www.fiabilis.cl/",
+      "startDate": "2020-07-10",
+      "endDate": "2021-09-10",
+      "summary": "Utilizar herramientas de programación a base del lenguaje Python (Flask) Programación orientada a objetos y uso de metodologías agiles Manejo de librerías y Frameworks (Pandas – PyMySQL - Selenium) Manejo de base de datos MySQL",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Telefonica",
+      "position": "Operador SOC Seguridad",
+      "url": "https://www.movistar.cl/web/corporaciones/security-operation-center-soc",
+      "startDate": "2019-08-10",
+      "endDate": "2020-07-05",
+      "summary": "Analizar alertas de Fraude y Robo de informacion para realizar escalamientos a áreas de soporte nivel 3 correspondiente, realizar informes de ataques realizados a empresas junto con el escalamiento y mitigación de ataques DDoS",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Adexus S.A",
+      "position": "Operador Redes y Programacion (Practica)",
+      "url": "https://www.adexus.com/",
+      "startDate": "2019-05-1",
+      "endDate": "2019-10-01",
+      "summary": "Configuración de cuentas VPN a distintos clientes, Soporte en software y Hardware, Configuración de permisos en cuentas VPN (Altas y bajas). Configuración de políticas en firewalls (Acceso y bloqueo). Creación de Páginas WEB en servicios locales, para realizar pruebas de vulnerabilidad en servidores con HoneyPot.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Duoc UC",
+      "position": "Operador Centro Tecnológico",
+      "url": "https://www.duoc.cl/",
+      "startDate": "2014-03-1",
+      "endDate": "2019-01-10",
+      "summary": "Soporte TI a para alumnos, docentes y administrativos en DuocUC Sede Puente Alto. (Atención a clientes internos y externos). Soporte en software y Hardware de una diversidad de carreras lo que me permitió conocer diferentes programas y configuraciones, las cuales son utilizadas hoy en el mercado laboral. Apoyo en la gestión de levantamientos e implementación de proyectos de inversión.(Cotización de trabajos e implementación de éstos)",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "IACC",
+    "url": "https://www.iacc.cl/",
+    "area": "Ing. En Informatica",
+    "studyType": "Ingeneria",
+    "startDate": "2023-01-01",
+    "endDate": null
+  },
+  {
+    "institution": "Duoc UC",
+    "url": "https://www.duoc.cl/",
+    "area": "Analista Programador Computacional",
+    "studyType": "Tecnico",
+    "startDate": "2018-01-01",
+    "endDate": "2020-01-01",
+    "score": "5.0"
+  },
+  {
+    "institution": "Duoc UC",
+    "url": "https://www.duoc.cl/",
+    "area": "Administrador de Redes Computacionales",
+    "studyType": "Tecnico",
+    "startDate": "2013-01-01",
+    "endDate": "2017-01-01",
+    "score": "5.0"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "MiniProgramas",
+      "isActive": true,
+      "description": "Pequeños modulos creados para aprender sobre librerias de Python (Proceso de Actualizacion)",
+      "highlights": [
+        "Desarrollado de forma autodidacta"
+      ],
+      "url": "https://github.com/SoulRod/MiniProgramas",
+      "github": "https://github.com/SoulRod/MiniProgramas"
+    },
+    {
+      "name": "Prueba Técnica para Consultas de Hospital",
+      "isActive": true,
+      "description": "Prueba de Desarrollo para Toma de Horas y Consultas en Hospitales",
+      "highlights": [
+        "Creado con Python 3.7 y Flask",
+        "BD Mysql"
+      ],
+      "url": "https://github.com/SoulRod/Consulta_hospital",
+      "github": "https://github.com/SoulRod/Consulta_hospital"
+    },
+    {
+      "name": "Dashboard Core UI / Laravel 10",
+      "isActive": true,
+      "description": "Dashboard pre-configurado, para utilizar con roles y permisos",
+      "highlights": [
+        "Creado con Laravel 10 - Core UI - Tailwind "
+      ],
+      "url": "https://github.com/SoulRod/Dashboard-Laravel10-CoreUI-Tailwind",
+      "github": "https://github.com/SoulRod/Dashboard-Laravel10-CoreUI-Tailwind"
+    },
+    {
+      "name": "Sistema de Examinacion Serguridad Privada",
+      "isActive": true,
+      "description": "Sistema de Examinacion y certificacion para seguridad privada OS10",
+      "highlights": [
+        "Desarrollado para Seguridad Privada"
+      ]
+    },
+    {
+      "name": "Roblen",
+      "isActive": true,
+      "description": "Web para Pyme de prestaciones informaticas",
+      "highlights": [
+        "Desarrollado Freelance"
+      ],
+      "url": "https://roblen.cl"
+    }
+  ]
+}
