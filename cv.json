@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Rodrigo Morales Mendoza",
-    "label": "Full Stack Developer con más de 5 años de experiencia en el mundo de las tecnologias",
+    "label": "Full Stack Developer con más de 5 años de experiencia en el mundo de las tecnologías",
     "image": "/me.webp",
     "email": "rod.moralesm93@gmail.com",
     "phone": "+56 976446571",
     "url": "https://github.com/SoulRod",
-    "summary": "+5 años de experiencia en el mundo de las tecnologias tanto Redes como Informatica, vivo en Santiago de Chile, actualmente terminando la Ing. en informatica, titulado como Analista Programador Computacional y Administrador de Redes Computacionales.",
+    "summary": "+5 años de experiencia en el mundo de las tecnologías tanto en Redes como en Informática. Vivo en Santiago de Chile, Me encuentro titulado cómo Ing. en Informática, titulo tecnico como Analista Programador Computacional y Administrador de Redes Computacionales.",
     "location": {
       "address": "",
       "postalCode": "8190582",
-      "city": "Marcos Perez #0781",
+      "city": "Marcos Pérez #0781",
       "countryCode": "ES",
       "region": "Puente Alto"
     },
@@ -34,7 +34,7 @@
       "url": "https://www.carabineros.cl/",
       "startDate": "2022-08-01",
       "endDate": null,
-      "summary": "Realizando diferentes tipos de desarrollo internos para plataformas de la institucion, entre ellas el desarrollo de sistema de examinacion de seguridad privada ( OS10 ).",
+      "summary": "Desarrollando diversos proyectos internos para las plataformas de la institución, entre los cuales se incluye la creación del sistema de examinación para seguridad privada (OS10), el desarrollo de una aplicación para la facturación en el Hospital de Carabineros y el apoyo en el desarrollo de la aplicación de medidas cautelares y órdenes judiciales.",
       "highlights": [
         "Started the company"
       ]
@@ -45,7 +45,7 @@
       "url": "https://www.linkedin.com/company/servisenior.com/about/",
       "startDate": "2021-11-10",
       "endDate": "2022-06-26",
-      "summary": "Encargado de realizar la planificación diaria de rutas y envíos de distintas empresas. Creación y mantención de base de datos de distintos clientes (MySQL) Lenguajes que ultimamente he utilizado son: stack web, HTML, PHP, Css, Python (librerías de pandas, selenium, beautifullsoup, QrCode, entre otros).",
+      "summary": "Encargado de realizar la planificación diaria de rutas y envíos de distintas empresas. Creación y mantención de bases de datos de distintos clientes (MySQL). Lenguajes que últimamente he utilizado: stack web, HTML, PHP, CSS, Python (librerías de pandas, selenium, beautifulsoup, QrCode, entre otros).",
       "highlights": [
         "Started the company"
       ]
@@ -56,7 +56,7 @@
       "url": "https://www.fiabilis.cl/",
       "startDate": "2020-07-10",
       "endDate": "2021-09-10",
-      "summary": "Utilizar herramientas de programación a base del lenguaje Python (Flask) Programación orientada a objetos y uso de metodologías agiles Manejo de librerías y Frameworks (Pandas – PyMySQL - Selenium) Manejo de base de datos MySQL",
+      "summary": "Utilizar herramientas de programación basadas en el lenguaje Python (Flask). Programación orientada a objetos y uso de metodologías ágiles. Manejo de librerías y Frameworks (Pandas, PyMySQL, Selenium). Manejo de bases de datos MySQL.",
       "highlights": [
         "Started the company"
       ]
@@ -67,18 +67,18 @@
       "url": "https://www.movistar.cl/web/corporaciones/security-operation-center-soc",
       "startDate": "2019-08-10",
       "endDate": "2020-07-05",
-      "summary": "Analizar alertas de Fraude y Robo de informacion para realizar escalamientos a áreas de soporte nivel 3 correspondiente, realizar informes de ataques realizados a empresas junto con el escalamiento y mitigación de ataques DDoS",
+      "summary": "Analizar alertas de fraude y robo de información para realizar escalamientos a áreas de soporte nivel 3 correspondientes, realizar informes de ataques realizados a empresas, junto con el escalamiento y mitigación de ataques DDoS.",
       "highlights": [
         "Started the company"
       ]
     },
     {
       "name": "Adexus S.A",
-      "position": "Operador Redes y Programacion (Practica)",
+      "position": "Operador Redes y Programación (Práctica)",
       "url": "https://www.adexus.com/",
-      "startDate": "2019-05-1",
+      "startDate": "2019-05-01",
       "endDate": "2019-10-01",
-      "summary": "Configuración de cuentas VPN a distintos clientes, Soporte en software y Hardware, Configuración de permisos en cuentas VPN (Altas y bajas). Configuración de políticas en firewalls (Acceso y bloqueo). Creación de Páginas WEB en servicios locales, para realizar pruebas de vulnerabilidad en servidores con HoneyPot.",
+      "summary": "Configuración de cuentas VPN a distintos clientes. Soporte en software y hardware. Configuración de permisos en cuentas VPN (Altas y bajas). Configuración de políticas en firewalls (Acceso y bloqueo). Creación de páginas web en servicios locales para realizar pruebas de vulnerabilidad en servidores con HoneyPot.",
       "highlights": [
         "Started the company"
       ]
@@ -87,40 +87,42 @@
       "name": "Duoc UC",
       "position": "Operador Centro Tecnológico",
       "url": "https://www.duoc.cl/",
-      "startDate": "2014-03-1",
+      "startDate": "2014-03-01",
       "endDate": "2019-01-10",
-      "summary": "Soporte TI a para alumnos, docentes y administrativos en DuocUC Sede Puente Alto. (Atención a clientes internos y externos). Soporte en software y Hardware de una diversidad de carreras lo que me permitió conocer diferentes programas y configuraciones, las cuales son utilizadas hoy en el mercado laboral. Apoyo en la gestión de levantamientos e implementación de proyectos de inversión.(Cotización de trabajos e implementación de éstos)",
+      "summary": "Soporte TI para alumnos, docentes y administrativos en DuocUC Sede Puente Alto. (Atención a clientes internos y externos). Soporte en software y hardware de una diversidad de carreras, lo que me permitió conocer diferentes programas y configuraciones, las cuales son utilizadas hoy en el mercado laboral. Apoyo en la gestión de levantamientos e implementación de proyectos de inversión. (Cotización de trabajos e implementación de éstos)",
       "highlights": [
         "Started the company"
       ]
     }
   ],
-  "education": [{
-    "institution": "IACC",
-    "url": "https://www.iacc.cl/",
-    "area": "Ing. En Informatica",
-    "studyType": "Ingeneria",
-    "startDate": "2023-01-01",
-    "endDate": null
-  },
-  {
-    "institution": "Duoc UC",
-    "url": "https://www.duoc.cl/",
-    "area": "Analista Programador Computacional",
-    "studyType": "Tecnico",
-    "startDate": "2018-01-01",
-    "endDate": "2020-01-01",
-    "score": "5.0"
-  },
-  {
-    "institution": "Duoc UC",
-    "url": "https://www.duoc.cl/",
-    "area": "Administrador de Redes Computacionales",
-    "studyType": "Tecnico",
-    "startDate": "2013-01-01",
-    "endDate": "2017-01-01",
-    "score": "5.0"
-  }],
+  "education": [
+    {
+      "institution": "IACC",
+      "url": "https://www.iacc.cl/",
+      "area": "Ing. en Informática",
+      "studyType": "Ingeniería",
+      "startDate": "2023-01-01",
+      "endDate": "2025-01-01"
+    },
+    {
+      "institution": "Duoc UC",
+      "url": "https://www.duoc.cl/",
+      "area": "Analista Programador Computacional",
+      "studyType": "Técnico",
+      "startDate": "2018-01-01",
+      "endDate": "2020-01-01",
+      "score": "5.0"
+    },
+    {
+      "institution": "Duoc UC",
+      "url": "https://www.duoc.cl/",
+      "area": "Administrador de Redes Computacionales",
+      "studyType": "Técnico",
+      "startDate": "2013-01-01",
+      "endDate": "2017-01-01",
+      "score": "5.0"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
@@ -203,22 +205,26 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
       "name": "MiniProgramas",
       "isActive": true,
-      "description": "Pequeños modulos creados para aprender sobre librerias de Python (Proceso de Actualizacion)",
+      "description": "Pequeños módulos creados para aprender sobre librerías de Python (Proceso de Actualización)",
       "highlights": [
         "Desarrollado de forma autodidacta"
       ],
@@ -231,7 +237,7 @@
       "description": "Prueba de Desarrollo para Toma de Horas y Consultas en Hospitales",
       "highlights": [
         "Creado con Python 3.7 y Flask",
-        "BD Mysql"
+        "BD MySQL"
       ],
       "url": "https://github.com/SoulRod/Consulta_hospital",
       "github": "https://github.com/SoulRod/Consulta_hospital"
@@ -241,15 +247,15 @@
       "isActive": true,
       "description": "Dashboard pre-configurado, para utilizar con roles y permisos",
       "highlights": [
-        "Creado con Laravel 10 - Core UI - Tailwind "
+        "Creado con Laravel 10 - Core UI - Tailwind"
       ],
       "url": "https://github.com/SoulRod/Dashboard-Laravel10-CoreUI-Tailwind",
       "github": "https://github.com/SoulRod/Dashboard-Laravel10-CoreUI-Tailwind"
     },
     {
-      "name": "Sistema de Examinacion Serguridad Privada",
+      "name": "Sistema de Examinación Seguridad Privada",
       "isActive": true,
-      "description": "Sistema de Examinacion y certificacion para seguridad privada OS10",
+      "description": "Sistema de Examinación y certificación para seguridad privada OS10",
       "highlights": [
         "Desarrollado para Seguridad Privada"
       ]
@@ -257,7 +263,7 @@
     {
       "name": "Roblen",
       "isActive": true,
-      "description": "Web para Pyme de prestaciones informaticas",
+      "description": "Web para Pyme de prestaciones informáticas",
       "highlights": [
         "Desarrollado Freelance"
       ],
